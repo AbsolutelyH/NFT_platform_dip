@@ -1,0 +1,19 @@
+{
+   "description" : "Диплом за второе место межрегионального хакатона Цифра",
+   "image" : "ipfs://bafybeids23glqcxgcrdgh37ujhqanmwspg55md6gnsky5c6jlqhktjihmu/images/Dip1.jpg",
+   "name" : "Диплом хакатон Цифра",
+   "attributes" : [
+      {
+         "trait_type" : "Автор",
+         "value" : "Жданов Е.А."
+      },
+      {
+         "trait_type" : "Должность",
+         "value" : "Руководитель акселерационной программы Цифра"
+      },
+      {
+         "trait_type" : "Получатель",
+         "value" : "Львутин Илья Александрович"
+      }
+   ]
+}
