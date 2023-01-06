@@ -3,8 +3,9 @@ pragma solidity ^0.8.17;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
-contract NFT is ERC721 {
+contract NFT is ERC721Enumerable {
   using Counters for Counters.Counter;
 
   Counters.Counter private currentTokenId;
@@ -12,14 +13,14 @@ contract NFT is ERC721 {
   /// @dev Base token URI used as a prefix by tokenURI().
   string public baseTokenURI;
 
-  constructor() ERC721("NFTDiploms", "NFT") {
+  constructor() ERC721("NFTDipProj", "NFT") {
     baseTokenURI = "";
   }
 
-  function mintTo(address recipient) public returns (uint256) {
+  function mintNFTs() public returns (uint256) {
     currentTokenId.increment();
     uint256 newItemId = currentTokenId.current();
-    _safeMint(recipient, newItemId);
+    _safeMint(msg.sender, newItemId);
     return newItemId;
   }
 

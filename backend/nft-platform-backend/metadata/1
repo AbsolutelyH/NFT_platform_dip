@@ -1,15 +1,15 @@
 {
-   "description" : "Диплом за второе место межрегионального хакатона Цифра",
-   "image" : "ipfs://bafybeids23glqcxgcrdgh37ujhqanmwspg55md6gnsky5c6jlqhktjihmu/images/Dip1.jpg",
-   "name" : "Диплом хакатон Цифра",
+   "description" : "Сертификат участника в исследовательском питче в рамках всероссийского межвузовского форума <<Искусство управлять>>",
+   "image" : "ipfs://bafybeidfbid2uhhkmoxhyh3z375o674yqrcqyuevl7bpnno36wx4x47zle/images/Cer1.jpg",
+   "name" : "Сертификат участника <<Искусство управлять>>",
    "attributes" : [
       {
          "trait_type" : "Автор",
-         "value" : "Жданов Е.А."
+         "value" : "Троицкий А.В."
       },
       {
          "trait_type" : "Должность",
-         "value" : "Руководитель акселерационной программы Цифра"
+         "value" : "Ректор ГУУ"
       },
       {
          "trait_type" : "Получатель",

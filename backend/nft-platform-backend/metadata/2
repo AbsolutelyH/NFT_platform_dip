@@ -1,0 +1,19 @@
+{
+   "description" : "Сертификат участника межрегионального хакатона Цифра",
+   "image" : "ipfs://bafybeidfbid2uhhkmoxhyh3z375o674yqrcqyuevl7bpnno36wx4x47zle/images/Cer2.jpg",
+   "name" : "Сертификат хакатон Цифра",
+   "attributes" : [
+      {
+         "trait_type" : "Автор",
+         "value" : "Жданов Е.А."
+      },
+      {
+         "trait_type" : "Должность",
+         "value" : "Руководитель акселерационной программы Цифра"
+      },
+      {
+         "trait_type" : "Получатель",
+         "value" : "Львутин Илья Александрович"
+      }
+   ]
+}

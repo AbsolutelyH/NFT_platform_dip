@@ -1,0 +1,19 @@
+{
+   "description" : "Диплом второй степени в номинации <<Исследовательские проекты>>",
+   "image" : "ipfs://bafybeidfbid2uhhkmoxhyh3z375o674yqrcqyuevl7bpnno36wx4x47zle/images/Dip2.jpg",
+   "name" : "Диплом второй степени",
+   "attributes" : [
+      {
+         "trait_type" : "Автор",
+         "value" : "Троицкий А.В."
+      },
+      {
+         "trait_type" : "Должность",
+         "value" : "Ректор ГУУ"
+      },
+      {
+         "trait_type" : "Получатель",
+         "value" : "Львутин Илья Александрович"
+      }
+   ]
+}
